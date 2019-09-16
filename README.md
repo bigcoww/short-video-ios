@@ -1,7 +1,11 @@
-# short-video
+# short-video-ios
 
 #### 介绍
-仿抖音短视频安卓版源码
+仿抖音短视频IOS版源码 
+
+[安卓版地址](https://gitee.com/qwsem/short-video/)
+
+[后台源码](https://gitee.com/qwsem/web/)
 
 官网：[http://www.china-zhizao.com](http://www.china-zhizao.com/)
 
@@ -46,7 +50,7 @@ OSS存储：七牛
 
 以下为短视频安卓版部分功能系统截图
 
-![](https://gitee.com/qwsem/short-video/raw/master/screenshot/1.png)
-![](https://gitee.com/qwsem/short-video/raw/master/screenshot/2.png)
-![](https://gitee.com/qwsem/short-video/raw/master/screenshot/3.png)
-![](https://gitee.com/qwsem/short-video/raw/master/screenshot/4.png)
+![](https://gitee.com/qwsem/short-video-ios/raw/master/screenshot/1.png)
+![](https://gitee.com/qwsem/short-video-ios/raw/master/screenshot/2.png)
+![](https://gitee.com/qwsem/short-video-ios/raw/master/screenshot/3.png)
+![](https://gitee.com/qwsem/short-video-ios/raw/master/screenshot/4.png)
