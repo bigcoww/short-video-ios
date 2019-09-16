@@ -1,7 +1,7 @@
-# short-video-ios
+# short-video
 
 #### Description
-仿抖音短视频IOS版源码 演示地址 v.chian-zhizao.com 
+仿抖音短视频安卓版源码
 
 #### Software Architecture
 Software architecture description

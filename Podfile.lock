@@ -1,0 +1,168 @@
+PODS:
+  - AFNetworking (3.2.1):
+    - AFNetworking/NSURLSession (= 3.2.1)
+    - AFNetworking/Reachability (= 3.2.1)
+    - AFNetworking/Security (= 3.2.1)
+    - AFNetworking/Serialization (= 3.2.1)
+    - AFNetworking/UIKit (= 3.2.1)
+  - AFNetworking/NSURLSession (3.2.1):
+    - AFNetworking/Reachability
+    - AFNetworking/Security
+    - AFNetworking/Serialization
+  - AFNetworking/Reachability (3.2.1)
+  - AFNetworking/Security (3.2.1)
+  - AFNetworking/Serialization (3.2.1)
+  - AFNetworking/UIKit (3.2.1):
+    - AFNetworking/NSURLSession
+  - AliPay (2.1.2)
+  - BlocksKit (2.2.5):
+    - BlocksKit/All (= 2.2.5)
+  - BlocksKit/All (2.2.5):
+    - BlocksKit/Core
+    - BlocksKit/DynamicDelegate
+    - BlocksKit/MessageUI
+    - BlocksKit/UIKit
+  - BlocksKit/Core (2.2.5)
+  - BlocksKit/DynamicDelegate (2.2.5)
+  - BlocksKit/MessageUI (2.2.5):
+    - BlocksKit/Core
+    - BlocksKit/DynamicDelegate
+  - BlocksKit/UIKit (2.2.5):
+    - BlocksKit/Core
+    - BlocksKit/DynamicDelegate
+  - Bugly (2.4.8)
+  - CocoaLumberjack (3.5.3):
+    - CocoaLumberjack/Core (= 3.5.3)
+  - CocoaLumberjack/Core (3.5.3)
+  - CWStatusBarNotification (2.3.5)
+  - EBBannerView (1.1.0)
+  - GPUImage (0.1.7)
+  - HappyDNS (0.3.15)
+  - HPGrowingTextView (1.1)
+  - IQKeyboardManager (6.3.0)
+  - JCore (2.0.2)
+  - JMessage (3.9.0):
+    - JCore (< 3.0.0, >= 1.0.0)
+  - JPush (3.2.0):
+    - JCore (< 3.0.0, >= 2.0.0)
+  - Masonry (1.0.2)
+  - MBProgressHUD (1.1.0)
+  - MJExtension (3.0.17)
+  - MJRefresh (3.2.0)
+  - MLLabel (1.10.5)
+  - mob_sharesdk (4.2.6):
+    - mob_sharesdk/ShareSDK (= 4.2.6)
+    - MOBFoundation
+  - mob_sharesdk/ShareSDK (4.2.6):
+    - MOBFoundation
+  - mob_sharesdk/ShareSDKPlatforms/QQ (4.2.6):
+    - mob_sharesdk/ShareSDK
+    - MOBFoundation
+  - mob_sharesdk/ShareSDKPlatforms/WeChatFull (4.2.6):
+    - mob_sharesdk/ShareSDK
+    - MOBFoundation
+  - MOBFoundation (3.2.2)
+  - OpenSSL-for-iOS (1.0.2.d.1)
+  - QBImagePickerController (3.4.0)
+  - Qiniu (7.2.5):
+    - HappyDNS (~> 0.3)
+  - SDWebImage (3.8.3):
+    - SDWebImage/Core (= 3.8.3)
+  - SDWebImage/Core (3.8.3)
+  - SPUncaughtExceptionHandler (0.3.3)
+  - TXLiteAVSDK_UGC (3.9.2749)
+  - YYText (1.0.7)
+
+DEPENDENCIES:
+  - AFNetworking (~> 3.0)
+  - AliPay (~> 2.1.2)
+  - BlocksKit (~> 2.2.5)
+  - Bugly (~> 2.4.6)
+  - CocoaLumberjack
+  - CWStatusBarNotification (~> 2.3.5)
+  - EBBannerView
+  - GPUImage (~> 0.1.7)
+  - HPGrowingTextView
+  - IQKeyboardManager
+  - JMessage
+  - JPush
+  - Masonry (~> 1.0.1)
+  - MBProgressHUD (~> 1.1.0)
+  - MJExtension (~> 3.0.10)
+  - MJRefresh
+  - MLLabel
+  - mob_sharesdk
+  - mob_sharesdk/ShareSDKPlatforms/QQ
+  - mob_sharesdk/ShareSDKPlatforms/WeChatFull
+  - OpenSSL-for-iOS (~> 1.0.2.d.1)
+  - QBImagePickerController
+  - Qiniu (~> 7.0)
+  - SDWebImage (~> 3.8)
+  - SPUncaughtExceptionHandler
+  - TXLiteAVSDK_UGC (= 3.9.2749)
+  - YYText (~> 1.0.7)
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - AFNetworking
+    - AliPay
+    - BlocksKit
+    - Bugly
+    - CocoaLumberjack
+    - CWStatusBarNotification
+    - EBBannerView
+    - GPUImage
+    - HappyDNS
+    - HPGrowingTextView
+    - IQKeyboardManager
+    - JCore
+    - JMessage
+    - JPush
+    - Masonry
+    - MBProgressHUD
+    - MJExtension
+    - MJRefresh
+    - MLLabel
+    - mob_sharesdk
+    - MOBFoundation
+    - OpenSSL-for-iOS
+    - QBImagePickerController
+    - Qiniu
+    - SDWebImage
+    - SPUncaughtExceptionHandler
+    - TXLiteAVSDK_UGC
+    - YYText
+
+SPEC CHECKSUMS:
+  AFNetworking: b6f891fdfaed196b46c7a83cf209e09697b94057
+  AliPay: 2bd35a4e486d2a8c035043023cd846e886bb21d1
+  BlocksKit: 7f422b971407001178d181a43b99014ea2591fe6
+  Bugly: da3c02408c14838d498429320545a8e439392978
+  CocoaLumberjack: 2f44e60eb91c176d471fdba43b9e3eae6a721947
+  CWStatusBarNotification: 3d2738b25c3207f60cc50201388d3c96182545ff
+  EBBannerView: 3d987535d0236c1f87c2b064267d94002c23dd1e
+  GPUImage: 733a5f0fab92df9de1c37ba9df520a833ccb406d
+  HappyDNS: 00c15e651a347206e58a20503a32a5564589b56a
+  HPGrowingTextView: 88a716d97fb853bcb08a4a08e4727da17efc9b19
+  IQKeyboardManager: 2ca9d64893247556f53523dcd8d78641f0ba7c23
+  JCore: d4cbe6d178eaeb0ed263e42a6ebcb617855ef7cb
+  JMessage: 27e036df9d3dfe45db526c51e677c4a77642c7bf
+  JPush: 8459e7a709ad86f95884fcb49cbd57a6da24744e
+  Masonry: 7c429b56da9d4ee0bbb3ed77a5ea710d6a5df39e
+  MBProgressHUD: e7baa36a220447d8aeb12769bf0585582f3866d9
+  MJExtension: 74ec83124a68891619fb7ba9c5c811bbf1691076
+  MJRefresh: ed450d6eb9d3346a2cb033ab7eb6de090aeef437
+  MLLabel: d76124055a2205e7f76878e62cd06ba925ba0c97
+  mob_sharesdk: e993f357a6f1581a956aea16ea142c9de0425bf7
+  MOBFoundation: b5ff4038ddb9a0f06b685b86408f905a10aa147c
+  OpenSSL-for-iOS: d7a30add88a1969b052135adbe48452af231ed32
+  QBImagePickerController: d54cf93db6decf26baf6ed3472f336ef35cae022
+  Qiniu: 909b408ee489ea54827e9717be90b94bc9dfbc48
+  SDWebImage: a72e880a8fe0f7fc31efe15aaed443c074d2a80c
+  SPUncaughtExceptionHandler: 2a617e91cde852b5e30acc3e15c9b74e7e62c8b9
+  TXLiteAVSDK_UGC: 15fe730f6205b2cf461c0cfa826bc8d298e7ca86
+  YYText: 5c461d709e24d55a182d1441c41dc639a18a4849
+
+PODFILE CHECKSUM: 8246ad9c474a60e07b04015ba1cf76c55f1e75db
+
+COCOAPODS: 1.7.1
